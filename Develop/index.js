@@ -983,7 +983,7 @@ ${responses.license[0]}
 ${responses.license[1]}
 
 ## Questions
-    GitHub: ${responses.gethub}
+    GitHub: ${responses.github}
     E-mail: ${responses.email}`
 
     fs.writeFile('README.md', readme, (err) =>
